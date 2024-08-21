@@ -1,19 +1,12 @@
 instructors:
-  - name: Albus Dumbledore
+  - name: Yaoyu Tao
     profile_pic: /_images/pp/dumbledore.jpg
     webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
+  - name: Meng Li
     profile_pic: /_images/pp/mcgonagall.jpg
+    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
 
 teaching_assistants:
-  - name: Harry Potter
+  - name: Zelun Pan
     profile_pic: /_images/pp/potter.jpg
     webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
-
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
-
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
