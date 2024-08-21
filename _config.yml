@@ -7,13 +7,13 @@ baseurl: "/aiarchpku" # the subpath of your site, e.g. /blog/
 url: "http://higgsbose.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Peking University"
-schoolurl: "https://hogwarts.edu"
+schoolurl: "https://pku.edu.cn"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    School of Yuanpei
+    Peking Univ.
+    Beijing
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
