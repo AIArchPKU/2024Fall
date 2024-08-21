@@ -1,12 +1,12 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: "智能硬件体系结构"
+course_description: "This course briefly introduces computer architecture and novel hardware-software co-designed hardware architecture"
+course_semester: "Fall 2024"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: "/aiarchpku" # the subpath of your site, e.g. /blog/
+url: "http://higgsbose.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
+schoolname: "Peking University"
 schoolurl: "https://hogwarts.edu"
 twitter_username: username 
 
