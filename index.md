@@ -3,8 +3,8 @@ layout: home
 ---
 You can find all the material needed in the course in this website.
 
-**Course Time**: Wednesday
+**Course Time**: Wednesday 3pm-5pm
 
-**COURSE LOCATION**: 二教101  
+**Course Location**: to be assigned   
 
-**OFFICE HOUR** : 
+**Office Hour**: to be assigned 
