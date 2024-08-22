@@ -3,7 +3,7 @@ course_name: "Hardware Architecture for Intelligent Computing Systems"
 course_description: "This course briefly introduces computer architecture and novel hardware-software co-designed hardware architecture"
 course_semester: "Fall 2024"
 
-baseurl: "/aiarchpku" # the subpath of your site, e.g. /blog/
+baseurl: "/aiarchpku.github.io/" # the subpath of your site, e.g. /blog/
 url: "http://higgsbose.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Peking University"
