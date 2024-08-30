@@ -1,12 +1,12 @@
 instructors:
   - name: Yaoyu Tao
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+    profile_pic: /_images/pp/taoyaoyu.jpg
+    webpage: https://taoyaoyu.github.io
   - name: Meng Li
-    profile_pic: /_images/pp/mcgonagall.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+    profile_pic: /_images/pp/limeng.jpg
+    webpage: https://mengli.me
 
 teaching_assistants:
   - name: Zelun Pan
-    profile_pic: /_images/pp/potter.jpg
+    profile_pic: /_images/pp/panzelun.jpg
     webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
