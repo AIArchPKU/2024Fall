@@ -13,5 +13,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- [Online Verilog Exercise](http://hdlbits.com)
-- [Readings 2](http://example.com)
+- [Online Verilog Exercise](https://hdlbits.01xz.net/wiki/Main_Page)

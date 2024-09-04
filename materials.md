@@ -14,5 +14,5 @@ permalink: /materials/
 ## Additional Course Materials
 
 * If you are not familiar with Verilog programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.hdlbits.com/): A useful website to learn Verilog
+* [Material #1](https://hdlbits.01xz.net/wiki/Main_Page): A useful website to learn Verilog
 
