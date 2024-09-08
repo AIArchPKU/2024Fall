@@ -10,7 +10,7 @@ permalink: /materials/
 ## Book
 
 * [Computer Architecture: A Quantitative Approach - John L. Hennessy, David A. Patterson](https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
-* 智能计算系统: 陈云霁，李玲，李威，郭崎，杜子东
+* [智能计算系统: 陈云霁，李玲，李威，郭崎，杜子东](https://book.douban.com/subject/34988786/)
 
 ## Additional Course Materials
 
