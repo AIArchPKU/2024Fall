@@ -5,7 +5,7 @@ permalink: /materials/
 ---
 
 {% include image.html url="/_images/CompArch_cover.jpg" width=175 align="right" %}
-{% include image.html url="/_images/智能计算系统_cover.jpg" width=175 align="right" %}
+{% include image.html url="/_images/智能计算系统_cover.jpg" width=150 align="right" %}
 
 ## Book
 
