@@ -14,3 +14,6 @@ tldr: "课程情况介绍，简要介绍芯片发展历程，以及简要介绍�
 ---
 **Suggested Readings:**
 - [Online Verilog Exercise](https://hdlbits.01xz.net/wiki/Main_Page)
+- [MIPS Website](https://mips.com/): The official website of MIPS
+- [MIT Eyriss](https://eyeriss.mit.edu/): The official website of Eyriss, a hardware CNN accelerator developed by MIT
+- [RISCV](https://bar.eecs.berkeley.edu/projects/riscv.html): The official website of RISCV, a simplified instruction set developed by UC Berkeley
