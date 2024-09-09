@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-09-11T15:10:00+2:50
+date: 2024-09-11T13:00:00+2:50
 title: 芯片发展史与AI芯片体系结构简介
 tldr: "课程情况介绍，简要介绍芯片发展历程，以及简要介绍前沿AI芯片体系结构"
 thumbnail: /static_files/presentations/Lecture1.jpg
