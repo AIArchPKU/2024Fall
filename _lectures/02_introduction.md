@@ -11,6 +11,6 @@ tldr: "晶体管原理及数字电路基础，为后续学习更复杂的电路�
 #       name: codes
 #     - url: https://google.com
 #       name: slides
----
+# ---
 # **Suggested Readings:**
 # - [Online Verilog Exercise](http://hdlbits.com)
