@@ -3,7 +3,7 @@ layout: home
 ---
 You can find all the material needed in the course in this website.
 
-**Course Time**: Wednesday 15:10 - 17:00
+**Course Time**: Wednesday 13:00 - 14:50
 
 **Course Location**: 一教202   
 
