@@ -4,4 +4,4 @@ This is the codespace of the [course website](https://aiarchpku.github.io/2024Fa
 
 * All the information about this course can be found on the website
 * The lecture slides, assignments as well as the labs will be posted on the website
-* If you have any question or suggestion about the course, please feel free to contact the [TA](zlpan@stu.pku.edu.cn) of this course. 
+* If you have any question or suggestion about the course, please feel free to contact the TA (zlpan@stu.pku.edu.cn) of this course. 
