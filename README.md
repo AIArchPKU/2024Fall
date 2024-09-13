@@ -3,6 +3,7 @@
 **This is the codespace of the [course website](https://aiarchpku.github.io/2024Fall) of Hardware Architecture of Intelligent Computing Systems.**
 
 **Lecturer**: [Yaoyu Tao](https://www.ai.pku.edu.cn/info/1137/2306.htm) & [Meng Li](https://mengli.me)
+
 **TA**: [Zelun Pan](https://github.com/HiggsBose)
 
 * All the information about this course can be found on the website
