@@ -9,7 +9,7 @@ hide_from_announcments: true
 #     - url: /static_files/presentations/lec.zip
 #       name: notes
 #     - url: /static_files/presentations/code.zip
-#       name: codes
+#       name: codes 
 #     - url: https://google.com
 #       name: slides
 ---
@@ -18,5 +18,6 @@ hide_from_announcments: true
 - [Online Verilog Exercise](http://hdlbits.com)
 - [数字集成电路设计原理](http://jpk.pku.edu.cn/course/ic/script.htm): 包含静态逻辑动态逻辑等内容
 - [CMOS Delay Model](http://emlab.illinois.edu/ece342/notes/Lec_34.pdf): Slides given by UIUC ECE342
+- [Digital Integrated Circuits - A Design Perspective](https://booksonweb.wordpress.com/wp-content/uploads/2011/11/digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf): A reference book for digital integrated circuits deisgn.
 
 
