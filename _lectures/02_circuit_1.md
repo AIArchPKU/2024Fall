@@ -12,7 +12,11 @@ hide_from_announcments: true
 #       name: codes
 #     - url: https://google.com
 #       name: slides
-# ---
-# **Suggested Readings:**
-# - [Online Verilog Exercise](http://hdlbits.com)
 ---
+
+**Suggested Readings:**
+- [Online Verilog Exercise](http://hdlbits.com)
+- [数字集成电路设计原理](http://jpk.pku.edu.cn/course/ic/script.htm): 包含静态逻辑动态逻辑等内容
+- [CMOS Delay Model](http://emlab.illinois.edu/ece342/notes/Lec_34.pdf): Slides given by UIUC ECE342
+
+
