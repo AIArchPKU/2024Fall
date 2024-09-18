@@ -20,5 +20,6 @@ links:
 - [CMOS Delay Model](http://emlab.illinois.edu/ece342/notes/Lec_34.pdf): Slides given by UIUC ECE342
 - [Digital Integrated Circuits - A Design Perspective](https://booksonweb.wordpress.com/wp-content/uploads/2011/11/digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf): A reference book for digital integrated circuits deisgn.
 - [Verilog HDL高级数字设计](https://book.douban.com/subject/1220624/): Verilog参考书籍
-- [Logical Effort](https://pages.hmc.edu/harris/class/e158/lect6-logicaleffort.pdf): An introdcution to logical effort concept and calculations
+- [Logical Effort - 1](https://pages.hmc.edu/harris/class/e158/lect6-logicaleffort.pdf): An introdcution to logical effort concept and calculations
+- [Logical Effort - 2](static_files\presentations\Lecture2\6-1.pdf): Slides about logical effort by UT Austin
 
