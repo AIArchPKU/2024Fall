@@ -3,7 +3,7 @@ type: lecture
 date: 2024-09-18T13:00:00+2:50
 title: 电路基础-1 晶体管与数字电路设计
 tldr: "晶体管原理及数字电路基础，为后续学习更复杂的电路结构做准备"
-hide_from_announcments: false
+hide_from_announcments: true
 thumbnail: static_files/presentations/Lecture2/lecture2_页面_01.jpg
 links: 
     - url: /static_files/presentations/Lecture2/第二节课.pdf

@@ -3,7 +3,7 @@ type: lecture
 date: 2024-09-25T13:00:00+2:50
 title: 电路基础-2 时序电路、芯片的物理设计与验证
 tldr: "介绍时序电路、状态机以及芯片的设计流程，涵盖从前端、后端到最后流片的整体过程"
-hide_from_announcments: true
+hide_from_announcments: false
 thumbnail: static_files/presentations/Lecture3/Lecture3_页面_01.jpg
 # links: 
 #     - url: /static_files/presentations/lec.zip
