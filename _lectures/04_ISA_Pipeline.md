@@ -6,7 +6,7 @@ tldr: "介绍指令集ISA基础与流水线CPU的设计原理"
 hide_from_announcments: false
 thumbnail: /static_files/presentations/Lecture4/Lecture4_cover.png
 links:
-    - url: /static_files/presentations/Lecture4/Lecture4_V2.pdf
+    - url: /static_files/presentations/Lecture4/Lecture4_V3.pdf
       name: slides
 
 ---
