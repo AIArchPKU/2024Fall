@@ -3,7 +3,7 @@ type: lecture
 date: 2024-10-09T13:00:00+2:50
 title: 指令集与流水线设计
 tldr: "介绍指令集ISA基础与流水线CPU的设计原理"
-hide_from_announcments: false
+hide_from_announcments: true
 thumbnail: /static_files/presentations/Lecture4/Lecture4_cover.png
 links:
     - url: /static_files/presentations/Lecture4/Lecture4_V3.pdf
