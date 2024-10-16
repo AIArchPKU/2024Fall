@@ -6,7 +6,7 @@ tldr: "介绍流水线CPU中的数据/控制冲突与处理方法"
 hide_from_announcments: false
 thumbnail: /static_files/presentations/Lecture5/Lecture5_Cover.png
 links:
-    - url: /static_files/presentations/Lecture5/Lecture5_V2.pdf
+    - url: /static_files/presentations/Lecture5/Lecture5_V3.pdf
       name: slides
 ---
 
