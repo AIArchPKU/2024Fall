@@ -5,6 +5,7 @@ title: 'Assignment 1'
 pdf: /static_files/Assignments/Assignment1/Assignment1.pdf
 # attachment: /static_files/assignments/asg.zip
 # solutions: 
+hide_from_announcments: true
 due_event: 
     type: due
     date: 2024-10-15T23:59:59
