@@ -12,8 +12,10 @@ permalink: /project/
 
 # Lab 1. MIPS Out-of-Order Super-scalar CPU
 
-第一次Lab同学们需要实现一个基于MIPS指令集的OoO超标量CPU，具体任务描述可见:[Lab1](TODO),
-
-CPU的不同模块存在项目./verilog目录下，具体功能请参照：[模块功能介绍](/2024Fall/static_files/Lab/Lab1/模块说明.html)
+第一次Lab同学们需要实现一个基于MIPS指令集的OoO超标量CPU，具体任务描述可见:[Lab1](/2024Fall/static_files/Lab/Lab1/Lab_1_Manual.pdf),
 
 Lab的开发在学校计算中心提供的[CLAB平台](http://115.27.162.172:8080)进行，使用教程参考[CLAB使用教程](TODO)，感谢CLAB技术人员的支持！
+
+实验采用Linux环境开发，运行lab所需的terminal相关指令参考[Linux环境运行Lab说明](/2024Fall/static_files/Lab/Lab1/Linux环境运行Lab说明.pdf)
+
+CPU的不同模块存在项目./verilog目录下，具体功能请参照：[模块功能介绍](/2024Fall/static_files/Lab/Lab1/模块说明.html)
