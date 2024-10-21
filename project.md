@@ -16,4 +16,4 @@ permalink: /project/
 
 CPU的不同模块存在项目./verilog目录下，具体功能请参照：[模块功能介绍](/2024Fall/static_files/Lab/Lab1/模块说明.html)
 
-Lab的开发在学校计算中心提供的CLAB平台进行，使用教程参考[CLAB使用教程](TODO)，感谢CLAB技术人员的支持！
+Lab的开发在学校计算中心提供的[CLAB平台](http://115.27.162.172:8080)进行，使用教程参考[CLAB使用教程](TODO)，感谢CLAB技术人员的支持！
