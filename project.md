@@ -19,3 +19,5 @@ Lab的开发在学校计算中心提供的[CLAB平台](https://clab.pku.edu.cn)�
 实验采用Linux环境开发，运行lab所需的terminal相关指令参考[Linux环境运行Lab说明](/2024Fall/static_files/Lab/Lab1/Linux环境运行Lab说明.html)
 
 CPU的不同模块存在项目./verilog目录下，具体功能请参照：[模块功能介绍](/2024Fall/static_files/Lab/Lab1/模块说明.html)
+
+**实验结束时间为2024.11.25 23:59:59**，请大家注意按时提交代码
