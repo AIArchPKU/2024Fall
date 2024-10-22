@@ -4,7 +4,7 @@ date: 2024-09-20T22:30:00
 title: 'Assignment 1'
 pdf: /static_files/Assignments/Assignment1/Assignment1.pdf
 # attachment: /static_files/assignments/asg.zip
-solutions: 
+solutions: /static_files/Assignments/Assignment1/assignment1_sol.pdf
 hide_from_announcments: true
 due_event: 
     type: due
@@ -17,7 +17,7 @@ due_event:
 
 ### 计算题参考答案
 
-* [Assignment 1 Ans.]()
+* [Assignment 1 Ans.](2024Fall/static_files/Assignments/Assignment1/assignment1_sol.pdf)
 
 
 ### 设计类题目参考答案
