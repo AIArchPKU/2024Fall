@@ -16,6 +16,6 @@ permalink: /project/
 
 Lab的开发在学校计算中心提供的[CLAB平台](https://clab.pku.edu.cn)进行，使用教程参考[CLAB使用教程](/2024Fall/static_files/Lab/Lab1/智能硬件体系结构.pdf)，感谢CLAB技术人员的支持！
 
-实验采用Linux环境开发，运行lab所需的terminal相关指令参考[Linux环境运行Lab说明](/2024Fall/static_files/Lab/Lab1/Linux环境运行Lab说明.pdf)
+实验采用Linux环境开发，运行lab所需的terminal相关指令参考[Linux环境运行Lab说明](/2024Fall/static_files/Lab/Lab1/Linux环境运行Lab说明.html)
 
 CPU的不同模块存在项目./verilog目录下，具体功能请参照：[模块功能介绍](/2024Fall/static_files/Lab/Lab1/模块说明.html)
