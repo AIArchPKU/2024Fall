@@ -15,3 +15,5 @@ links:
 - [Branch Prediction](https://course.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=onur-740-fall13-module7.4.1-branch-prediction.pdf): A Slide about Branch Prediction at CMU
 
 - [Super Scalar](https://www.youtube.com/watch?v=GE15v__4x58): Lecture Recording at ETH
+
+- [Memory Hierarchy](https://computationstructures.org/lectures/caches/caches.html): A Slide about Memory Hierarchy.
