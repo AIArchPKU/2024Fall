@@ -20,4 +20,6 @@ Lab的开发在学校计算中心提供的[CLAB平台](https://clab.pku.edu.cn)�
 
 CPU的不同模块存在项目./verilog目录下，具体功能请参照：[模块功能介绍](/2024Fall/static_files/Lab/Lab1/模块说明.html)
 
+Lab所使用的MIPS指令集Manual简单版可见[MIPS Muanual Short](/2024Fall/static_files/Lab/Lab1/Instruction_Descriptions_Short.pdf)，相对完整版本可见[MIPS Muanual Short](/2024Fall/static_files/Lab/Lab1/Instruction_Descriptions_Long.pdf)
+
 **实验结束时间为2024.11.25 23:59:59**，请大家注意按时提交代码
