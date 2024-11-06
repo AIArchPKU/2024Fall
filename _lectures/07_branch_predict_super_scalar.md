@@ -3,7 +3,7 @@ type: lecture
 date: 2024-10-30T13:00:00+2:50
 title: 分支预测与超标量设计
 tldr: "介绍分支预测技术与超标量技术"
-hide_from_announcments: false
+hide_from_announcments: true
 thumbnail: /static_files/presentations/Lecture7/Lecture7_Cover.png
 links: 
     - url: /static_files/presentations/Lecture7/Lecture7.pdf
