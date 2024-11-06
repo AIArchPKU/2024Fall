@@ -14,4 +14,6 @@ links:
 
 - [Instruction Level Parallelism & Branch Prediction](https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf): Textbook Chapter 3 
 
-- [OoO Arch](https://course.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=seth-740-fall13-module7-out-of-order-execution.pdf): Slides about OoO Execution
+- [OoO Arch Slides 1](https://course.ece.cmu.edu/~ece740/f13/lib/exe/fetch.php?media=seth-740-fall13-module7-out-of-order-execution.pdf): Slides about OoO Execution
+
+- [OoO Arch Slides 2](https://compas.cs.stonybrook.edu/~nhonarmand/courses/sp16/cse502/slides/11-ooo_mem.pdf): Slides about OoO Execution from Stony Brook
