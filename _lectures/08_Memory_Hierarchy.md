@@ -9,3 +9,9 @@ links:
     - url: /static_files/presentations/Lecture8/Lecture8.pdf
       name: slides
 ---
+
+**Suggested Readings**
+
+- [Memory Hierarchy](https://www.youtube.com/watch?v=JogSnkvENr0): Lecture about Memory Hierarchy
+
+- [Cache Coherence](https://www.youtube.com/watch?v=9k6UMsIDvBk): Cache Coherence Lecture
