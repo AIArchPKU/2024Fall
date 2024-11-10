@@ -22,6 +22,6 @@ CPU的不同模块存在项目./verilog目录下，具体功能请参照：[模�
 
 Lab所使用的MIPS指令集Manual简单版可见[MIPS Muanual Short](/2024Fall/static_files/Lab/Lab1/Instruction_Descriptions_Short.pdf)，相对完整版本可见[MIPS Muanual Complete](/2024Fall/static_files/Lab/Lab1/Instruction_Descriptions_Long.pdf),
 
-**不同指令的格式可见**[Instruction Format](/2024Fall/static_files/Lab/Lab1/Instruction_Format.pdf),具体对应opcode可以在项目目录下的'sys_defs.vh'找到
+**不同指令的格式可见**[Instruction Format](/2024Fall/static_files/Lab/Lab1/Instruction_Formats.pdf),具体对应opcode可以在项目目录下的'sys_defs.vh'找到
 
-**实验结束时间为2024.11.25 23:59:59**，请大家注意按时提交代码
+**实验结束时间为2024.11.25 23:59:59**，请大家注意按时提交代码 
