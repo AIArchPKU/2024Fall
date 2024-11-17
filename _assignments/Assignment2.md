@@ -4,7 +4,7 @@ date: 2024-10-17T13:30:00
 title: 'Assignment 2'
 pdf: /static_files/Assignments/Assignment2/Assignment2.pdf
 # attachment: /static_files/assignments/asg.zip
-# solutions: 
+solutions: /static_files/Assignments/Assignment2/Assignment2_sol.pdf
 hide_from_announcments: true
 due_event: 
     type: due
