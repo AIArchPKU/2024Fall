@@ -7,13 +7,13 @@ permalink: /finals/
 
 **Time**: Nov.30 00:00 - Dec. 1 23:59
 
-**Delay Policy**:迟交1天扣10分
+**Delay Policy**：迟交1天扣10分
 
 ## 方案2: Paper Review
 
-**Description**:**近5年(2020-2024)**体系结构方面顶会paper取1-2篇做review
+**Description**：**近5年(2020-2024)**体系结构方面顶会paper取1-2篇做review，需要涵盖背景知识
 
-**Suggested Conference**: HPCA, MICRO, ISCA
+**Suggested Conference**：HPCA, MICRO, ISCA
 
 **Suggested Topics**:
 
@@ -33,14 +33,16 @@ permalink: /finals/
 
     * 
 
-- **Secure Hardware Architecture**
+- **Secure Hardware Architecture**:
+
+    * [Zero Knowledge Prove](https://ieeexplore.ieee.org/document/9499783)
 
 - **Traditional CPU Architecture**:
 
-    * [Branch Prediction]()
+    * [Branch Prediction](https://ieeexplore.ieee.org/abstract/document/742770): Old, but classic
 
     * [Memory Controller](https://ieeexplore.ieee.org/document/6835956)
 
 - **Process in Memory**
 
-- **Other Interesting Topics**: Quantum Computing, Optically Architecture, etc.
+- **Other Interesting Topics**: Quantum Computing, Optical Architecture, etc.
