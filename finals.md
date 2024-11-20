@@ -36,7 +36,6 @@ permalink: /finals/
 - **Traditional CPU Architecture**:
 
     * [Branch Prediction](https://ieeexplore.ieee.org/abstract/document/742770)
-
     * [Memory Controller](https://ieeexplore.ieee.org/document/6835956)
 
 - **Process in Memory**:
