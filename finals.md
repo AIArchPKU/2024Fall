@@ -11,7 +11,7 @@ permalink: /finals/
 
 ## 方案2: Paper Review
 
-**Description**:近5年体系结构方面顶会paper取1-2篇做review
+**Description**:**近5年(2020-2024)**体系结构方面顶会paper取1-2篇做review
 
 **Suggested Conference**: HPCA, MICRO, ISCA
 
@@ -19,7 +19,7 @@ permalink: /finals/
 
 以下给出一些较为经典的方向和论文参考
 
-- [AI Accelerator]: 
+- **AI Accelerator**: 
     
     * [fused-layer CNN accelerators](https://ieeexplore.ieee.org/document/7783725/)
 
@@ -27,6 +27,20 @@ permalink: /finals/
     
     * [Google TPU](https://research.google/pubs/in-datacenter-performance-analysis-of-a-tensor-processing-unit/)
 
-- [GPGPU]:
+- **GPGPU**:
 
-    * []
+    * [GPU Performance and Power Estimating](https://ieeexplore.ieee.org/document/7056063)
+
+    * 
+
+- **Secure Hardware Architecture**
+
+- **Traditional CPU Architecture**:
+
+    * [Branch Prediction]()
+
+    * [Memory Controller](https://ieeexplore.ieee.org/document/6835956)
+
+- **Process in Memory**
+
+- **Other Interesting Topics**: Quantum Computing, Optically Architecture, etc.
