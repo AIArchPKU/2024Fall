@@ -22,3 +22,7 @@ items:
 - url: /materials/
   name: Materials
   icon_class: fas fa-book
+
+- url: /final/
+  name: Final
+  icon_class: fas fa-file-alt
