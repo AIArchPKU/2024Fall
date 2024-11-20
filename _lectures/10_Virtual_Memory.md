@@ -9,3 +9,5 @@ links:
     - url: /static_files/presentations/Lecture10/Lecture10.pdf
       name: slides
 ---
+**Suggested Readings**
+- [NVDIA H100](https://www.nvidia.com/en-us/data-center/h100/): NVDIA H100 website
