@@ -41,7 +41,8 @@ collections:
         output: true
     announcements:
         output: false
-
+    final:
+        output: true
 
 defaults:
   - scope:
