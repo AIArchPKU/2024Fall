@@ -19,10 +19,11 @@ items:
   name: Project
   icon_class: fas fa-user-graduate
 
+- url: /finals/
+  name: Finals
+  icon_class: fas fa-file-alt
+
 - url: /materials/
   name: Materials
   icon_class: fas fa-book
 
-- url: /final/
-  name: Final
-  icon_class: fas fa-file-alt

@@ -1,0 +1,32 @@
+---
+layout: page
+title: Finals
+permalink: /finals/
+---
+## 方案1: Take Home Exam
+
+**Time**: Nov.30 00:00 - Dec. 1 23:59
+
+**Delay Policy**:迟交1天扣10分
+
+## 方案2: Paper Review
+
+**Description**:近5年体系结构方面顶会paper取1-2篇做review
+
+**Suggested Conference**: HPCA, MICRO, ISCA
+
+**Suggested Topics**:
+
+以下给出一些较为经典的方向和论文参考
+
+- [AI Accelerator]: 
+    
+    * [fused-layer CNN accelerators](https://ieeexplore.ieee.org/document/7783725/)
+
+    * [eyeriess](https://dl.acm.org/doi/10.1145/3007787.3001177)
+    
+    * [Google TPU](https://research.google/pubs/in-datacenter-performance-analysis-of-a-tensor-processing-unit/)
+
+- [GPGPU]:
+
+    * []

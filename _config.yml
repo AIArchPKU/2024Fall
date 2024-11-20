@@ -41,7 +41,7 @@ collections:
         output: true
     announcements:
         output: false
-    final:
+    finals:
         output: true
 
 defaults:
