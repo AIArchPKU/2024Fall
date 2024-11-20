@@ -3,7 +3,7 @@ type: lecture
 date: 2024-11-13T13:00:00+2:50
 title: 缓存一致性与预读取
 tldr: "介绍缓存一致性、预读取、虚拟缓存与多线程等相关概念"
-hide_from_announcments: false
+hide_from_announcments: true
 thumbnail: /static_files/presentations/Lecture9/Lecture9_Cover.png
 links: 
     - url: /static_files/presentations/Lecture9/Lecture9.pdf
