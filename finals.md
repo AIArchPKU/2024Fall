@@ -31,8 +31,6 @@ permalink: /finals/
 
     * [GPU Performance and Power Estimating](https://ieeexplore.ieee.org/document/7056063)
 
-    * 
-
 - **Secure Hardware Architecture**:
 
     * [Zero Knowledge Prove](https://ieeexplore.ieee.org/document/9499783)
@@ -43,6 +41,8 @@ permalink: /finals/
 
     * [Memory Controller](https://ieeexplore.ieee.org/document/6835956)
 
-- **Process in Memory**
+- **Process in Memory**:
+
+    * [Pathfinding Future PIM Architectures by Demystifying a Commercial PIM Technology](https://arxiv.org/abs/2308.00846)
 
 - **Other Interesting Topics**: Quantum Computing, Optical Architecture, etc.
