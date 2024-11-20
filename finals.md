@@ -22,20 +22,16 @@ permalink: /finals/
 - **AI Accelerator**: 
     
     * [fused-layer CNN accelerators](https://ieeexplore.ieee.org/document/7783725/)
-
     * [eyeriess](https://dl.acm.org/doi/10.1145/3007787.3001177)
-    
     * [Google TPU](https://research.google/pubs/in-datacenter-performance-analysis-of-a-tensor-processing-unit/)
 
 - **GPGPU**:
 
     * [GPU Performance and Power Estimating](https://ieeexplore.ieee.org/document/7056063)
 
-
 - **Secure Hardware Architecture**:
 
     * [Zero Knowledge Prove](https://ieeexplore.ieee.org/document/9499783)
-
 
 - **Traditional CPU Architecture**:
 
@@ -43,10 +39,8 @@ permalink: /finals/
 
     * [Memory Controller](https://ieeexplore.ieee.org/document/6835956)
 
-
 - **Process in Memory**:
 
     * [Pathfinding Future PIM Architectures by Demystifying a Commercial PIM Technology](https://arxiv.org/abs/2308.00846)
-
 
 - **Other Interesting Topics**: Quantum Computing, Optical Architecture, etc.
