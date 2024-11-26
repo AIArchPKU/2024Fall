@@ -11,7 +11,7 @@ permalink: /finals/
 
 ## 方案2: Paper Review
 
-**Description**：**近5年(2020-2024)**体系结构方面顶会paper取1-2篇做review，需要涵盖背景知识
+**Description**：**近5年(2020-2024)** 体系结构方面顶会paper取1-2篇做review，需要涵盖背景知识
 
 **Suggested Conference**：HPCA, MICRO, ISCA
 
