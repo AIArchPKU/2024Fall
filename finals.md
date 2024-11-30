@@ -5,7 +5,9 @@ permalink: /finals/
 ---
 ## 方案1: Take Home Exam
 
-**Time**: Nov.30 00:00 - Dec. 1 23:59
+[**Final Questions**](/2024Fall/static_files/Assignments/Final.pdf)
+
+**Time**: Nov. 30 23:59 - Dec. 3 23:59
 
 **Delay Policy**：迟交1天扣10分
 
