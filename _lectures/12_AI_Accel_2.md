@@ -6,7 +6,7 @@ tldr: "介绍有代表性的前沿AI加速器架构与设计"
 hide_from_announcments: false
 thumbnail: /static_files/presentations/Lecture12/Lecture12_Cover.png
 links:
-    - url: /static_files/presentations/Lecture12/Lecture12.pdf
+    - url: /static_files/presentations/Lecture12/Lecture12_new.pdf
       name: slides
 ---
 **Suggested Readings**
