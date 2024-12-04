@@ -25,3 +25,13 @@ Lab所使用的MIPS指令集Manual简单版可见[MIPS Muanual Short](/2024Fall/
 **不同指令的格式可见**[Instruction Format](/2024Fall/static_files/Lab/Lab1/Instruction_Formats.pdf),具体对应opcode可以在项目目录下的'sys_defs.vh'找到
 
 **实验结束时间为2024.11.25 23:59:59**，请大家注意按时提交代码 
+
+# Lab 2. 基于CUDA/Triton的GPU算子设计
+
+第二次Lab需要同学们使用CUDA或者Triton设计量化和稀疏的GPU算子，具体任务描述可见：[Lab2](/2024Fall/static_files/Lab/Lab2/Lab2_Manual.pdf),
+
+实验平台使用Google的[Colab](https://colab.research.google.com/)，科学上网方法请参考[Wallespku](https://wallesspku.com/blog/)
+
+开发GPU算子的入门教程可以参考[CUDA教程](https://developer.nvidia.com/blog/even-easier-introduction-cuda)和[Triton教程](https://triton-lang.org/main/getting-started/tutorials/index.html)
+
+在Colab平台使用CUDA的基础编译工具链示例已经提供给大家，[cuda编译示例](/2024Fall/static_files/Lab/Lab2/cuda.rar)。
