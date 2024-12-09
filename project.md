@@ -34,4 +34,6 @@ Lab所使用的MIPS指令集Manual简单版可见[MIPS Muanual Short](/2024Fall/
 
 开发GPU算子的入门教程可以参考[CUDA教程](https://developer.nvidia.com/blog/even-easier-introduction-cuda)和[Triton教程](https://triton-lang.org/main/getting-started/tutorials/index.html)
 
-在Colab平台使用CUDA的基础编译工具链示例已经提供给大家，[cuda编译示例](/2024Fall/static_files/Lab/Lab2/cuda.rar)。
+在Colab平台使用CUDA的基础编译工具链示例已经提供给大家，[cuda编译示例](/2024Fall/static_files/Lab/Lab2/cuda.rar)
+
+算子模板定义请参考[templates](/2024Fall/static_files/Lab/Lab2/templates.zip)
