@@ -3,7 +3,7 @@ type: lecture
 date: 2024-12-04T13:00:00+2:50
 title: 人工智能加速器架构II
 tldr: "介绍有代表性的前沿AI加速器架构与设计"
-hide_from_announcments: false
+hide_from_announcments: true
 thumbnail: /static_files/presentations/Lecture12/Lecture12_Cover.png
 links:
     - url: /static_files/presentations/Lecture12/Lecture12_new.pdf
