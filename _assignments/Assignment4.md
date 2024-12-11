@@ -4,7 +4,7 @@ date: 2024-11-16T21:30:00
 title: 'Assignment 4'
 pdf: /static_files/Assignments/Assignment4/Assignment4.pdf
 # attachment: /static_files/assignments/asg.zip
-# solutions: 
+solutions: /static_files/Assignments/Assignment4/Assignment4_sol.pdf
 due_event: 
     type: due
     date: 2024-12-1T23:59:59
