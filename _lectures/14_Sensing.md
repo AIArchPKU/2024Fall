@@ -17,4 +17,3 @@ links:
 - [Samsung PIM HBM](https://semiconductor.samsung.com/news-events/tech-blog/hbm-pim-cutting-edge-memory-technology-to-accelerate-next-generation-ai/)
 
 - [RAELLA](https://arxiv.org/abs/2304.07935)
-
