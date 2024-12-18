@@ -9,3 +9,12 @@ links:
     - url: /static_files/presentations/Lecture14/Lecture14.pdf
       name: slides
 ---
+
+**Suggested Readings**
+
+- [UPMEM PIM DIMM](https://www.upmem.com/technology/)
+
+- [Samsung PIM HBM](https://semiconductor.samsung.com/news-events/tech-blog/hbm-pim-cutting-edge-memory-technology-to-accelerate-next-generation-ai/)
+
+- [RAELLA](https://arxiv.org/abs/2304.07935)
+
