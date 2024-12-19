@@ -10,4 +10,4 @@ due_event:
     date: 2025-01-02T23:59:59
     description: 'Assignment 5 due'
 ---
-本次作业考察缓存相关知识，请同学们按时提交！
+本次作业考察DRAM相关知识，请同学们按时提交！
