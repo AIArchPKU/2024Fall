@@ -18,7 +18,7 @@ permalink: /finals/
 
 **Description**：**近5年(2020-2024)** 体系结构方面顶会paper取1-2篇做review，需要涵盖背景知识
 
-**期末时间分组**: 【腾讯文档】期末Pre分组https://docs.qq.com/sheet/DZHVWQ1FjS0FhY2xk?tab=BB08J2
+**期末时间分组**: [【腾讯文档】期末Pre分组](https://docs.qq.com/sheet/DZHVWQ1FjS0FhY2xk?tab=BB08J2)
 
 **Suggested Conference**：HPCA, MICRO, ISCA
 
