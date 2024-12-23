@@ -5,7 +5,9 @@ permalink: /finals/
 ---
 ## 方案1: Take Home Exam
 
-期末试题：[**Final Questions**](/2024Fall/static_files/Assignments/Final.pdf)
+**期末试题**：[**Final Questions**](/2024Fall/static_files/Assignments/Finals/Final.pdf)
+
+**参考答案**: [Solution](/2024Fall/static_files/Assignments/Finals/Final_sol.pdf)
 
 **Time**: Nov. 30 23:59 - Dec. 3 23:59
 
