@@ -37,3 +37,5 @@ Lab所使用的MIPS指令集Manual简单版可见[MIPS Muanual Short](/2024Fall/
 在Colab平台使用CUDA的基础编译工具链示例已经提供给大家，[cuda编译示例](/2024Fall/static_files/Lab/Lab2/cuda.rar)
 
 算子模板定义请参考[templates](/2024Fall/static_files/Lab/Lab2/templates.zip)
+
+**实验结束时间为2025.1.5 23:59:59**，请大家注意按时提交代码
